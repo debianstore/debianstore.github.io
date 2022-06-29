@@ -1966,4 +1966,3 @@ https://debianstore.github.io/apps/details/zita-rev1.desktop/index.html
 https://debianstore.github.io/apps/details/zutty.desktop/index.html
 https://debianstore.github.io/apps/details/microhope-avr.desktop/index.html
 https://debianstore.github.io/apps/details/umps3.desktop/index.html
-/index.html
